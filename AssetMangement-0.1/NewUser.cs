@@ -10,7 +10,7 @@ namespace Newuser
     {
         public static void New()
         {
-            
+            Console.WriteLine("NO NEW USER ID ");
         }
     }
 }

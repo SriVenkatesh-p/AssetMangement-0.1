@@ -56,7 +56,8 @@ namespace Assigning
                     Console.WriteLine("UPDATE");
                     break;
                 case "5":
-                    Console.WriteLine("Exist");
+                    Console.WriteLine("THANK YOU FOR VISITING !");
+                    Environment.Exit(Environment.ExitCode);
                     break;
                 default:
                     Console.WriteLine("Invaild");

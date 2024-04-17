@@ -24,6 +24,11 @@ namespace Typeuser
                     //Existing User file
                     ExistingUser.Exit();
                     break;
+                    case 3:
+                    Console.WriteLine("THANK YOU FOR VISITING !");
+                    Environment.Exit(Environment.ExitCode);
+                    
+                    break;
                 default:
                     Console.WriteLine("Invaild");
                     validate();

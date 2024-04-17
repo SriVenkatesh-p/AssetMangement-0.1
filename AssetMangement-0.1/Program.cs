@@ -16,11 +16,12 @@ namespace AssetManagementSystem
     {
         public static void Welcome()
         {
-            Console.WriteLine("Welcome to Asset Management System Industies");
+            Console.WriteLine("WELCOME TO ASSET MANAGEMENT SYSTEM INDUSTRIES");
             Console.WriteLine("----------------------------");
             Console.WriteLine("");
             Console.WriteLine("1. New User ");
             Console.WriteLine("2. Existing User");
+            Console.WriteLine("3. Exit");
             Console.WriteLine("----------------------------");
             Console.Write("Select the Option :  ");
         }
