@@ -62,7 +62,7 @@ namespace Existing
             if (check == false)
             {
                 Console.WriteLine("Invalid User ID are PassKey");
-                Console.WriteLine("IF YOU ARE A NEW USER PRESS 1 TO CREATE NEW USER");
+             
             }
 
             Operations assign = new Operations();
